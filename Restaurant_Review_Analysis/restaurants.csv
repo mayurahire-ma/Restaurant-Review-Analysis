@@ -1,0 +1,31 @@
+"restaurant_id";"name";"location";"cuisine_id";"average_rating"
+1;"Pasta Paradise";"123 Main St, Cityville";1;4.5
+2;"Taco Town";"456 Oak St, Townsville";2;4.2
+3;"Spice Haven";"789 Elm St, Villageburg";3;4.0
+4;"Sushi Delight";"101 Pine St, Metropolis";4;4.8
+5;"Great Wall Chinese";"202 Cedar St, Townsville";5;3.9
+6;"Mamma Mia Pizzeria";"303 Birch St, Cityville";1;4.3
+7;"Burrito Bistro";"404 Maple St, Villageburg";2;4.1
+8;"Curry Corner";"505 Spruce St, Metropolis";3;3.8
+9;"Tokyo Sushi House";"606 Oak St, Cityville";4;4.7
+10;"Wok and Roll";"707 Pine St, Townsville";5;3.5
+11;"Ouzo Taverna";"808 Sunset Blvd, Cityville";6;4.1
+12;"Spicy Basil";"909 Sunrise Ave, Townsville";7;4.5
+13;"La Belle Epoque";"101 Starlight Dr, Villageburg";8;4.2
+14;"Kimchi Delight";"202 Moonlight Ln, Metropolis";9;4.8
+15;"Olive Garden";"303 Skyline Dr, Cityville";10;4.0
+16;"Saigon Street";"404 Aurora Ave, Townsville";11;3.9
+17;"Rio Grill";"505 Thunder Rd, Villageburg";12;4.3
+18;"Uncle Vanya";"606 Starshine St, Metropolis";13;3.8
+19;"African Flavors";"707 Nightfall Dr, Cityville";14;4.7
+20;"El Ranchero";"808 Sunset Blvd, Townsville";15;3.5
+21;"Moussaka Magic";"909 Sunrise Ave, Villageburg";6;4.1
+22;"Golden Pho";"101 Starlight Dr, Metropolis";7;4.5
+23;"Le Croissant";"202 Moonlight Ln, Cityville";8;4.2
+24;"Seoul Kitchen";"303 Skyline Dr, Townsville";9;4.8
+25;"Pita Palace";"404 Aurora Ave, Villageburg";10;4.0
+26;"Hanoi House";"505 Thunder Rd, Metropolis";11;3.9
+27;"Carnaval Steakhouse";"606 Starshine St, Cityville";12;4.3
+28;"Trans-Siberian Bistro";"707 Nightfall Dr, Townsville";13;3.8
+29;"Casablanca Cafe";"808 Sunset Blvd, Villageburg";14;4.7
+30;"Taco Tierra";"909 Sunrise Ave, Metropolis";15;3.5

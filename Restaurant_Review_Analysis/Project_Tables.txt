@@ -1,0 +1,30 @@
+create table cuisines (
+cuisine_id int primary key,
+cuisine_name varchar(250) not null
+);
+
+create table restaurants(
+restaurant_id int primary key,
+name varchar(255) not null,
+location varchar(255) not null,
+cuisine_id int,
+average_rating decimal(3,2),
+FOREIGN KEY (cuisine_id) references cuisines(cuisine_id)
+);
+
+create table users(
+user_id int primary key,
+username varchar(250) not null,
+email varchar (250) not null
+);
+
+create table reviews(
+review_id int primary key,
+user_id int,
+restaurant_id int,
+rating decimal(2,1) not null,
+comment text,
+review_date date,
+foreign key(user_id) references users(user_id),
+foreign key(restaurant_id) references restaurants(restaurant_id)
+);
